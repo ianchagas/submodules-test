@@ -1,0 +1,7 @@
+[submodule "teste1"]
+	path = teste1
+	url = https://github.com/ianchagas/inventory_solid_nest.git
+
+[submodule "teste2"]
+  path = teste2
+  url = https://github.com/ianchagas/clean-node-api.git
