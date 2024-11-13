@@ -1,0 +1,6 @@
+[submodule "inventory_solid_nest"]
+	path = inventory_solid_nest
+	url = https://github.com/ianchagas/inventory_solid_nest.git
+[submodule "clean-node-api"]
+	path = clean-node-api
+	url = https://github.com/ianchagas/clean-node-api.git
